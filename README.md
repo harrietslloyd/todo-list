@@ -86,4 +86,4 @@ pip3 install pytest pytest-cov flask_testing
 pip3 install -r requirements.txt
 python3 -m pytest --doctest-modules --junitxml=junit/test-results.xml --cov=application --cov-report=xml --cov-report=html
 ```
-Hello World
+Hello World!
